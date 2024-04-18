@@ -1,0 +1,134 @@
+[20-Mar-2024 13:45:36 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/energizz/public_html/pi6/getdata.php on line 2
+[20-Mar-2024 13:45:36 UTC] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/energizz/public_html/pi6/getdata.php on line 2
+[20-Mar-2024 13:45:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/energizz/public_html/pi6/getdata.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/energizz/public_html/pi6/getdata.php on line 12
+[20-Mar-2024 13:45:37 UTC] PHP Warning:  require(database.php): failed to open stream: No such file or directory in /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php on line 2
+[20-Mar-2024 13:45:37 UTC] PHP Fatal error:  require(): Failed opening required 'database.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php on line 2
+[20-Mar-2024 13:45:38 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/energizz/public_html/pi6/getdata.php on line 2
+[20-Mar-2024 13:45:38 UTC] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/energizz/public_html/pi6/getdata.php on line 2
+[20-Mar-2024 13:45:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/energizz/public_html/pi6/getdata.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/energizz/public_html/pi6/getdata.php on line 12
+[20-Mar-2024 13:45:42 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/energizz/public_html/pi6/getdata.php on line 2
+[20-Mar-2024 13:45:42 UTC] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/energizz/public_html/pi6/getdata.php on line 2
+[20-Mar-2024 13:45:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/energizz/public_html/pi6/getdata.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/energizz/public_html/pi6/getdata.php on line 12
+[20-Mar-2024 13:45:43 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/energizz/public_html/pi6/getdata.php on line 2
+[20-Mar-2024 13:45:43 UTC] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/energizz/public_html/pi6/getdata.php on line 2
+[20-Mar-2024 13:45:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/energizz/public_html/pi6/getdata.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/energizz/public_html/pi6/getdata.php on line 12
+[20-Mar-2024 13:45:43 UTC] PHP Warning:  require(database.php): failed to open stream: No such file or directory in /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php on line 2
+[20-Mar-2024 13:45:43 UTC] PHP Fatal error:  require(): Failed opening required 'database.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php on line 2
+[20-Mar-2024 13:49:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/energizz/public_html/pi6/getdata.php on line 18
+[20-Mar-2024 13:49:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/energizz/public_html/pi6/getdata.php on line 18
+[20-Mar-2024 13:49:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/energizz/public_html/pi6/getdata.php on line 18
+[20-Mar-2024 13:49:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/energizz/public_html/pi6/getdata.php on line 18
+[20-Mar-2024 13:49:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/energizz/public_html/pi6/getdata.php on line 18
+[20-Mar-2024 13:49:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/energizz/public_html/pi6/getdata.php on line 18
+[20-Mar-2024 13:49:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/energizz/public_html/pi6/getdata.php on line 18
+[20-Mar-2024 13:49:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/energizz/public_html/pi6/getdata.php on line 18
+[20-Mar-2024 13:49:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/energizz/public_html/pi6/getdata.php on line 18
+[20-Mar-2024 13:49:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/energizz/public_html/pi6/getdata.php on line 18
+[20-Mar-2024 13:49:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/energizz/public_html/pi6/getdata.php on line 18
+[20-Mar-2024 13:50:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/energizz/public_html/pi6/getdata.php on line 18
+[20-Mar-2024 13:50:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/energizz/public_html/pi6/getdata.php on line 18
+[20-Mar-2024 13:50:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/energizz/public_html/pi6/getdata.php on line 18
+[20-Mar-2024 13:50:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/energizz/public_html/pi6/getdata.php on line 18
+[20-Mar-2024 13:50:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/energizz/public_html/pi6/getdata.php on line 18
+[20-Mar-2024 13:50:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/energizz/public_html/pi6/getdata.php on line 18
+[20-Mar-2024 13:50:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/energizz/public_html/pi6/getdata.php on line 18
+[20-Mar-2024 13:50:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/energizz/public_html/pi6/getdata.php on line 18
+[20-Mar-2024 13:50:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/energizz/public_html/pi6/getdata.php on line 18
+[20-Mar-2024 13:50:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/energizz/public_html/pi6/getdata.php on line 18
+[20-Mar-2024 13:50:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/energizz/public_html/pi6/getdata.php on line 18
+[20-Mar-2024 13:50:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/energizz/public_html/pi6/getdata.php on line 18
+[20-Mar-2024 13:50:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/energizz/public_html/pi6/getdata.php on line 18
+[20-Mar-2024 13:50:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/energizz/public_html/pi6/getdata.php on line 18
+[20-Mar-2024 13:50:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/energizz/public_html/pi6/getdata.php on line 18
+[20-Mar-2024 13:50:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/energizz/public_html/pi6/getdata.php on line 18
+[20-Mar-2024 13:50:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/energizz/public_html/pi6/getdata.php on line 18
+[20-Mar-2024 13:50:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/energizz/public_html/pi6/getdata.php on line 18
+[20-Mar-2024 13:51:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/energizz/public_html/pi6/getdata.php on line 18
+[20-Mar-2024 11:41:45 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'LED_01' cannot be null in /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php:52
+Stack trace:
+#0 /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php(52): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php on line 52
+[20-Mar-2024 11:42:08 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'LED_01' cannot be null in /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php:52
+Stack trace:
+#0 /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php(52): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php on line 52
+[20-Mar-2024 11:42:14 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'LED_01' cannot be null in /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php:52
+Stack trace:
+#0 /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php(52): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php on line 52
+[20-Mar-2024 11:42:20 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'LED_01' cannot be null in /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php:52
+Stack trace:
+#0 /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php(52): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php on line 52
+[20-Mar-2024 11:42:31 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'LED_01' cannot be null in /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php:52
+Stack trace:
+#0 /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php(52): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php on line 52
+[20-Mar-2024 11:42:37 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'LED_01' cannot be null in /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php:52
+Stack trace:
+#0 /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php(52): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php on line 52
+[20-Mar-2024 14:53:03 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'soil_humidity' doesn't have a default value in /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php:52
+Stack trace:
+#0 /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php(52): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php on line 52
+[20-Mar-2024 14:53:10 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'soil_humidity' doesn't have a default value in /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php:52
+Stack trace:
+#0 /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php(52): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php on line 52
+[20-Mar-2024 14:53:16 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'soil_humidity' doesn't have a default value in /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php:52
+Stack trace:
+#0 /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php(52): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php on line 52
+[20-Mar-2024 14:53:22 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'soil_humidity' doesn't have a default value in /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php:52
+Stack trace:
+#0 /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php(52): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php on line 52
+[20-Mar-2024 14:53:27 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'soil_humidity' doesn't have a default value in /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php:52
+Stack trace:
+#0 /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php(52): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php on line 52
+[20-Mar-2024 14:53:33 America/Sao_Paulo] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'soil_humidity' doesn't have a default value in /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php:52
+Stack trace:
+#0 /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php(52): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/energizz/public_html/pi6/updateDHT11data_and_recordtable.php on line 52
+[23-Mar-2024 18:07:22 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/energizz/public_html/pi6/includes/config.php:11) in /home/energizz/public_html/pi6/monitoring.php on line 5
+[23-Mar-2024 18:07:29 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/energizz/public_html/pi6/includes/config.php:11) in /home/energizz/public_html/pi6/monitoring.php on line 5
+[23-Mar-2024 18:07:36 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/energizz/public_html/pi6/includes/config.php:11) in /home/energizz/public_html/pi6/dashboard.php on line 5
+[23-Mar-2024 21:59:11 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/energizz/public_html/pi6/includes/config.php:11) in /home/energizz/public_html/pi6/monitoring.php on line 5
+[23-Mar-2024 21:59:30 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/energizz/public_html/pi6/includes/config.php:11) in /home/energizz/public_html/pi6/monitoring.php on line 5
+[23-Mar-2024 21:59:32 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/energizz/public_html/pi6/includes/config.php:11) in /home/energizz/public_html/pi6/monitoring.php on line 5
+[23-Mar-2024 21:59:38 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/energizz/public_html/pi6/includes/config.php:11) in /home/energizz/public_html/pi6/dashboard.php on line 5
+[23-Mar-2024 22:03:26 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/energizz/public_html/pi6/includes/config.php:11) in /home/energizz/public_html/pi6/monitoring.php on line 5
+[27-Mar-2024 21:35:38 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/energizz/public_html/pi6/includes/config.php:11) in /home/energizz/public_html/pi6/monitoring.php on line 5
+[27-Mar-2024 21:35:45 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/energizz/public_html/pi6/includes/config.php:11) in /home/energizz/public_html/pi6/monitoring.php on line 5
+[27-Mar-2024 21:35:49 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/energizz/public_html/pi6/includes/config.php:11) in /home/energizz/public_html/pi6/dashboard.php on line 5
+[27-Mar-2024 21:35:51 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/energizz/public_html/pi6/includes/config.php:11) in /home/energizz/public_html/pi6/dashboard.php on line 5
+[30-Mar-2024 18:31:23 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/energizz/public_html/pi6/includes/config.php:11) in /home/energizz/public_html/pi6/dashboard.php on line 5
+[30-Mar-2024 18:31:26 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/energizz/public_html/pi6/includes/config.php:11) in /home/energizz/public_html/pi6/dashboard.php on line 5
+[30-Mar-2024 18:31:28 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/energizz/public_html/pi6/includes/config.php:11) in /home/energizz/public_html/pi6/dashboard.php on line 5
+[30-Mar-2024 18:31:29 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/energizz/public_html/pi6/includes/config.php:11) in /home/energizz/public_html/pi6/dashboard.php on line 5
